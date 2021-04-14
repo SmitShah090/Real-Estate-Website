@@ -48,12 +48,12 @@ input[type=text] {
 
   input[type=submit] {
       font-size: 22px;
-    width: 70%;
+    width: 60%;
     outline: none;
     background-color: #99b1d2;
     color: #302f27;
     padding: 14px 20px;
-    margin: 8px 150px;
+    margin: 8px 200px;
     border: none;
     border-radius: 4px;
     cursor: pointer;
